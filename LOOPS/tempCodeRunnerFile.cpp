@@ -1,0 +1,1 @@
+if(n==0) cout<<"Factorial of given no = "<<1;
